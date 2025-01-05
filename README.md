@@ -14,15 +14,14 @@
 - ✏️ I love developing software for cybersecurity - check out my repos in my [github profile!](https://github.com/BlackSheep4)
 - 📗 If you want to learn more about writeups and my projects check my [blog](blacksheep4.github.io)
 
-<br>
-
 ## *Amazing* projects
 <table>
-<tr>
+
 <td width="50%">
+  <br>
 <h3 align="center">Spider Web</h3>
 <div align="center">
-<a href="https://github.com/BlackSheep4/SpiderWeb-PRO" target="_blank"><img src="https://github.com/user-attachments/assets/a5fdee7b-ff1b-48bb-9677-f7acc2c4b4ce" width="400" alt="SpiderWeb"></a>
+<a href="https://github.com/BlackSheep4/SpiderWeb-PRO" target="_blank"><img src="https://github.com/user-attachments/assets/51bb9f2c-118c-44f3-acad-d83c8c33d031" width="400" alt="SpiderWeb"></a>
 <p>
 <a href="https://github.com/BlackSheep4/SpiderWeb-PRO" target="_blank">
 <img src="https://img.shields.io/badge/Source Code-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -37,11 +36,11 @@
 </td>
 
 <td width="50%">
-               <br>
+
 <h3 align="center">ShellXploit</h3>
 <div align="center">                                       
-<a href="https://github.com/BlackSheep4/ShellXploit-PRO" target="_blank"><img src="" width="400" alt="ShellXploit"></a>
-<br>
+<a href="https://github.com/BlackSheep4/ShellXploit-PRO" target="_blank"><img src="https://github.com/user-attachments/assets/0ba56daa-b3d5-4221-bf29-9d8cc2e238cd" width="400" alt="ShellXploit"></a>
+
 <p>
 <a href="https://github.com/BlackSheep4/ShellXploit-PRO" target="_blank">
 <img src="https://img.shields.io/badge/Source Code-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -50,18 +49,18 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>ShellXploit is an automatic payload msfvenom generator (APMG) that enables reverse shell creation and out-of-LAN connections. Ideal for Social Engineering techniques, it allows quick system access without sharing the target's network, leveraging port 80 forwarding for remote connections.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
+
 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Intermedio</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://github.com/user-attachments/assets/fe3260a8-8a93-4b0d-9914-d1ca35c32655" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
