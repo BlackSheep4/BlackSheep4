@@ -6,7 +6,7 @@
 </div>
 <img src="https://github.com/user-attachments/assets/93b6d67b-abd2-4bbd-854c-b4e3e5b9666f">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXOnCw0ylRMLMjmXOZj72yA?style=social)](https://youtube.com/therealcyberit?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXOnCw0ylRMLMjmXOZj72yA?style=social)](https://www.youtube.com/@therealblacksheep4?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/blacksheep4?style=social)](https://github.com/blacksheep4)
 
 ## About me
