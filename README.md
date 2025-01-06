@@ -11,11 +11,12 @@
 
 ## About me
 
-- 🧑‍🏫 Founder of [CyberIT](https://cyberit.es)
-- 📲 System Administrator
-- 🎥 HackTheBox Player. Check my [HTB Profile](https://app.hackthebox.com/profile/497715)
-- ✏️ I love developing software for cybersecurity - check out my repos in my [github profile!](https://github.com/BlackSheep4)
-- 📗 If you want to learn more about writeups and my projects check my [blog](blacksheep4.github.io)
+- 👨‍💼 Founder of [CyberIT](https://cyberit.es)
+- 💻 System Administrator
+- 📦 HackTheBox Player. Check my [HTB Profile](https://app.hackthebox.com/profile/497715)
+- 👨‍💻 I love developing software for cybersecurity - check out my repos in my [github profile!](https://github.com/BlackSheep4)
+- 📝 If you want to learn more about writeups and my projects check my [blog](blacksheep4.github.io)
+- 🎥 Check my [YouTube Channel!](https://www.youtube.com/@therealblacksheep4/)
 
 ## *Amazing* projects
 <table>
