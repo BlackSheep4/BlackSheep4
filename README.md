@@ -10,10 +10,10 @@
 
 ## About me
 
-- 👨‍💼 Founder of [CyberIT](https://cyberit.es)
+- 👨‍💼 Founder of [WhiteLabs](https://whitelabs.io)
 - 💻 System & Security Engineer
 - 👨‍💻 I love developing software for cybersecurity - check out my repos in my [github profile!](https://github.com/BlackSheep4)
-- 📝 If you want to learn more about writeups and my projects check my [blog](https://blog.cyberit.es)
+- 📝 If you want to learn more about writeups and my projects check my [blog](https://alvaroblanco.dev)
 
 ## *Amazing* projects
 <table>
