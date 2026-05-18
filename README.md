@@ -59,7 +59,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com(BlackSheep4">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blacksheep4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blacksheep4&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -73,16 +73,16 @@
 
 <div align="center"> 
   <h1 align="center">Contact with me ⬇️</h1>
-  <a href="mailto:ablanco@cyberit.es">
+  <a href="mailto:alvaro@whitelabs.io">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/álvaro-b-937a641aa/" target="_blank">
+  <a href="https://www.linkedin.com/in/alvaroblancohernando/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://blacksheep4.github.io" target="_blank">
+  <a href="https://alvaroblanco.dev" target="_blank">
      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://portfolio.cyberit.es" target="_blank">
+  <a href="https://whitelabs.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-B2E6FF?style=for-the-badge&logo=cloudflare&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
