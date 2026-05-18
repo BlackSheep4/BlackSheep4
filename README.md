@@ -83,7 +83,7 @@
      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://whitelabs.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-B2E6FF?style=for-the-badge&logo=cloudflare&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/WhiteLabs-B2E6FF?style=for-the-badge&logo=cloudflare&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 <div align="center">
