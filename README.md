@@ -80,9 +80,3 @@ Production Bash script integrating Google Secure LDAP + TOTP on Ubuntu via SSSD/
 
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hello@alvaroblanco.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaroblancohernando/)
-
----
-
-<div align="center">
-  <i>Building in public. Breaking things on purpose.</i>
-</div>
