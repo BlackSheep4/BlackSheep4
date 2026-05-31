@@ -12,7 +12,7 @@
 Systems engineer and security enthusiast who builds tools and automates what should already be automated.
 
 Founder of **[WhiteLabs](https://whitelabs.io)** — an AI automation studio helping businesses automate their workflows.
-When I'm not writing code, I'm on HackTheBox, studying for eJPTv2, or running infrastructure at home that's more complex than most startups.
+When I'm not writing code, I'm running infrastructure at home that's more complex than most startups.
 
 ---
 
@@ -22,7 +22,6 @@ When I'm not writing code, I'm on HackTheBox, studying for eJPTv2, or running in
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Infrastructure & Security**
@@ -32,7 +31,8 @@ When I'm not writing code, I'm on HackTheBox, studying for eJPTv2, or running in
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -80,3 +80,9 @@ Production Bash script integrating Google Secure LDAP + TOTP on Ubuntu via SSSD/
 
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hello@alvaroblanco.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaroblancohernando/)
+
+---
+
+<div align="center">
+  <i>Building in public. Breaking things on purpose.</i>
+</div>
