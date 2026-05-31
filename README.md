@@ -11,7 +11,7 @@
 
 Systems engineer and security enthusiast who builds tools and automates what should already be automated.
 
-Founder of **[WhiteLabs](https://whitelabs.io)** — an independent software studio where I ship products I'd actually use.
+Founder of **[WhiteLabs](https://whitelabs.io)** — an AI automation studio helping businesses automate their workflows.
 When I'm not writing code, I'm on HackTheBox, studying for eJPTv2, or running infrastructure at home that's more complex than most startups.
 
 ---
