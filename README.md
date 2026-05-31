@@ -9,7 +9,7 @@
 
 ## whoami
 
-Security-focused engineer who builds tools, breaks systems (legally), and automates what should already be automated.
+Systems engineer and security enthusiast who builds tools and automates what should already be automated.
 
 Founder of **[WhiteLabs](https://whitelabs.io)** — an independent software studio where I ship products I'd actually use.
 When I'm not writing code, I'm on HackTheBox, studying for eJPTv2, or running infrastructure at home that's more complex than most startups.
@@ -40,7 +40,7 @@ When I'm not writing code, I'm on HackTheBox, studying for eJPTv2, or running in
 
 ### 🔍 [SpiderWeb](https://github.com/BlackSheep4/SpiderWeb-PRO)
 Web reconnaissance and vulnerability scanning framework. Built because existing tools were either too bloated or too limited for structured enumeration workflows.
-`Python` · `OSINT` · `Security` · `🚧 Active development`
+`Python` · `OSINT` · `Security`
 
 ### 💣 [ShellXploit](https://github.com/BlackSheep4/ShellXploit-PRO)
 Automatic payload generator for msfvenom — handles reverse shell creation and out-of-LAN connections via port forwarding. Built for social engineering scenarios where you don't control the target network.
@@ -50,7 +50,7 @@ Automatic payload generator for msfvenom — handles reverse shell creation and 
 Dockerized Spotify downloader pipeline powered by spotDL and Jenkins. Self-hosted, automated, yours.
 `Docker` · `Jenkins` · `CI/CD`
 
-### 🔐 [CloudAuth Linux Bridge](https://github.com/BlackSheep4/CloudAuth-Linux-Bridge) *(WhiteLabs OSS)*
+### 🔐 [CloudAuth Linux Bridge](https://github.com/BlackSheep4/CloudAuth-Linux-Bridge)
 Production Bash script integrating Google Secure LDAP + TOTP on Ubuntu via SSSD/PAM. Used in real environments.
 `Bash` · `LDAP` · `2FA` · `SSSD`
 
@@ -60,9 +60,8 @@ Production Bash script integrating Google Secure LDAP + TOTP on Ubuntu via SSSD/
 
 | Project | Description | Status |
 |---|---|---|
-| **BackupMyNotion** | SaaS for automated Notion backups. Because Notion doesn't do it for you. | 🛠️ Building |
-| **eJPTv2** | Junior Penetration Tester certification via HackTheBox | 📚 Studying |
 | **alvaroblanco.dev** | Technical blog — writeups, projects, opinions | ✍️ Active |
+| **Argus** | OSINT orchestrator tool — aggregate, correlate, act | 🛠️ Building |
 
 ---
 
@@ -79,10 +78,8 @@ Production Bash script integrating Google Secure LDAP + TOTP on Ubuntu via SSSD/
 
 ## 📬 Find me
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alvaro@whitelabs.io)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hello@alvaroblanco.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaroblancohernando/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://alvaroblanco.dev)
-[![WhiteLabs](https://img.shields.io/badge/WhiteLabs-B2E6FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://whitelabs.io)
 
 ---
 
