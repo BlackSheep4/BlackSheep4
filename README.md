@@ -50,7 +50,7 @@ Automatic payload generator for msfvenom — handles reverse shell creation and 
 Dockerized Spotify downloader pipeline powered by spotDL and Jenkins. Self-hosted, automated, yours.
 `Docker` · `Jenkins` · `CI/CD`
 
-### 🔐 [CloudAuth Linux Bridge](https://github.com/BlackSheep4/CloudAuth-Linux-Bridge)
+### 🔐 [Google Auth Linux Bridge](https://github.com/BlackSheep4/Google-LDAP-Linux-Integrator)
 Production Bash script integrating Google Secure LDAP + TOTP on Ubuntu via SSSD/PAM. Used in real environments.
 `Bash` · `LDAP` · `2FA` · `SSSD`
 
